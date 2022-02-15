@@ -1,0 +1,7 @@
+﻿<?xml version="1.0"?>
+<Homepage>
+  <User>
+      <id>VARCHAR(32)</id>
+      <login>VARCHAR(128)</login>
+  </User>
+</Homepage>
